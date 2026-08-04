@@ -1,0 +1,44 @@
+{
+    "ioc_db": {
+        "iocl": {
+            "\u00ef\u00bb\u00bfTransaction ID": "int",
+            "Date": "text",
+            "Customer ID": "text",
+            "Gender": "text",
+            "Age": "int",
+            "Product Category": "text",
+            "Quantity": "int",
+            "Price per Unit": "int",
+            "Total Amount": "int",
+            "Company_name": "text"
+        }
+    },
+    "bpcl_db": {
+        "bpcl": {
+            "\u00ef\u00bb\u00bfTransaction ID": "int",
+            "Date": "text",
+            "Customer ID": "text",
+            "Gender": "text",
+            "Age": "int",
+            "Product Category": "text",
+            "Quantity": "int",
+            "Price per Unit": "int",
+            "Total Amount": "int",
+            "Comapny_name": "text"
+        }
+    },
+    "hpcl_db": {
+        "hpcl": {
+            "\u00ef\u00bb\u00bfTransaction ID": "int",
+            "Date": "text",
+            "Customer ID": "text",
+            "Gender": "text",
+            "Age": "int",
+            "Product Category": "text",
+            "Quantity": "int",
+            "Price per Unit": "int",
+            "Total Amount": "int",
+            "Company_name": "text"
+        }
+    }
+}
