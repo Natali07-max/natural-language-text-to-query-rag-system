@@ -1,4 +1,8 @@
-# Natural Language Text-to-Query RAG System
+# 🤖 Natural Language Text-to-Query RAG System
+
+An AI-powered application that allows users to query databases using natural language instead of writing SQL manually.
+
+**Python • RAG • LLMs • NLP • SQL • LangChain**
 
 ## Overview
 
